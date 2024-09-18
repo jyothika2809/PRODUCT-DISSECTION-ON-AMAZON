@@ -1,6 +1,6 @@
 # PRODUCT-DISSECTION-ON-AMAZON
 
-This project performs a detailed analysis and dissection of Amazon products, breaking down the components, features, and technologies that make them successful. The dissection helps in understanding the product functionality, user experience, and market positioning of products like Amazon Echo, Kindle, pharmacy, fresh, e-commerce, etc.]
+This project performs a detailed analysis and dissection of Amazon products, breaking down the components, features, and technologies that make them successful. The dissection helps in understanding the product functionality, user experience, and market positioning of products like Amazon prime, Kindle, pharmacy, fresh, e-commerce, etc.]
 
 Project Structure:
 data: Data and relevant information on Amazon products.
