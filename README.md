@@ -4,11 +4,11 @@ This project performs a detailed analysis and dissection of Amazon products, bre
 
 Project Structure:
 
-data: Data and relevant information on Amazon products.
+Data: Data and relevant information on Amazon products.
 
-script: Python script for presenting ER diagram.
+Script: Python script for presenting ER diagram.
 
-report.pdf: Final detailed analysis report.
+Report.pdf: Final detailed analysis report.
 
 Key Products Analyzed:
 
